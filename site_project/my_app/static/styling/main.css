@@ -3,11 +3,18 @@
     padding: 0;
 }
 
-body{
-    background-color:#001f3f;
+.welcome{
+    align-items: center;
+    background-color: aliceblue;
 }
 
+.welcome h1{
+    text-align: center;
+    color: #B10DC9;
+    font-size: 50px;
+}
 
+/* Intro styling */
 .intro{
     align-content: center;
     background-color: #FF851B;
